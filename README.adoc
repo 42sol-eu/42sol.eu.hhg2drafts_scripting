@@ -1,0 +1,3 @@
+= Hitchhickers Guide 2 drafts scripting (iOS and macOS)
+
+Setup a knowledge base for drafts scripting with actions and javascript
